@@ -11,6 +11,7 @@ class App extends React.Component{
     <div className="ui grid container center aligned">
       <div className="column eight wide">
           <Search/>
+          </hr>
       </div>
 
     </div>
